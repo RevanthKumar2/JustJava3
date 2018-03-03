@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whippedcream">फेटी हुई मलाई</string>
+    <string name="choclate">चॉकलेट</string>
+    <string name="Orde">आदेश</string>
+    <string name="summary">आदेश सारांश</string>
+    <string name="Qunatity">मात्रा :</string>
+    <string name="name">नाम :</string>
+    <string name="addwhipcream">व्हीप्ड क्रीम जोड़ें:</string>
+    <string name="addchocolate">" चॉकलेट जोड़ें:"</string>
+    <string name="toatal">कुल :</string>
+    <string name="thanku">धन्यवाद !!</string>
+</resources>
